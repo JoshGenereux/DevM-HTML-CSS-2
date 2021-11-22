@@ -1,0 +1,43 @@
+#head {
+    width: 1024px;
+    height: 75px;
+    background-color: black;
+}
+
+.top {
+    width: 1024px;
+    height: 150px;
+    background-color: #424242;
+}
+
+.left {
+    height: 799px;
+    width: 150px;
+    background-color: #d2cfcf;
+
+}
+
+.right {
+    height: 799px;
+    width: 150px;
+    background-color: #D2CFCFFF;
+    position: absolute;
+    top: 233px;
+    left: 882px
+}
+
+.bottom {
+    background-color: black;
+    width: 724px;
+    height: 125px;
+    position: absolute;
+    top: 914px;
+    left: 158px;
+}
+
+.foot {
+    background-color: #030836;
+    position: absolute;
+    width: 1024px;
+    height: 75px;
+}
